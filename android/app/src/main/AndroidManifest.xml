@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.flutter_auth">
    <application
-        android:label="flutter_auth"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Flutter Auth"
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
